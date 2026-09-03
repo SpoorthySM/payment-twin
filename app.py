@@ -83,6 +83,3 @@ elif page == "Methodology":
         """
     )
 
-    st.info(
-        "The methodology page is coming next."
-    )

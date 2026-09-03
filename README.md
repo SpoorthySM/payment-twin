@@ -384,7 +384,27 @@ Documents the decision framework, assumptions, and limitations behind the system
 
 # 📸 Product Preview
 
-> Screenshots of the live Payment Twin interface can be added here.
+### Counterfactual Payment Analysis
+
+![Payment Twin Analyze Payment](screenshots/analyze-payment.png)
+
+![Payment Twin Intervention Comparison](screenshots/intervention-comparison.png)
+
+### Recovery Operations
+
+![Payment Twin Recovery Queue](screenshots/recovery-operations.png)
+
+### Model Intelligence
+
+![Payment Twin Model Intelligence](screenshots/model-intelligence.png)
+
+### Dashboard
+
+![Payment Twin Overview](screenshots/overview.png)
+
+### Methodology
+
+![Payment Twin Methodology](screenshots/methodology.png)
 
 Recommended showcase:
 

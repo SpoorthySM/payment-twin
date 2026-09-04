@@ -6,7 +6,8 @@
   <p align="center">
     Don't just predict whether a failed payment will recover.<br>
     <strong>Decide what to do next — and whether it's worth doing.</strong>
-    **🚀 [Live Demo]https://payment-twin.streamlit.app/**
+    <br>
+  🚀 <a href="https://payment-twin.streamlit.app/">Live Demo</a>
   </p>
 </p>
 
